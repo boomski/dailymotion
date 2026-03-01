@@ -11,26 +11,5 @@
 #########################################################################
 
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720 group-title="" tvg-logo="" tvg-id="", Sport en France
-https://cdn.nng.cloudns.us/video/ts/oops.m3u8
-
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720 group-title="" tvg-logo="" tvg-id="", Maritima TV
-https://live.eu-north-1a.cf.dmcdn.net/sec2(WRebwjiS7cs17jfSZRglns0E6zkwstqhps8PsMEAzldYnWa9BCDvy0erC7aSYG_hZbjbVTM2u6D57RSOjGMvdJUfaFTSfLadrnXfXaMJQSBeWoGQKm8SoBONnM_0k1Dh)/dm/3/x9sgd82/d/live-380.m3u8#cell=lcf-eu-north-1a
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720 group-title="" tvg-logo="" tvg-id="", Telenantes
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uXIV6RJWnHOmmG0rCHr12HJ5VQvVeuhnMONoUyos0q4ElTOgugHC3wAX--rPKu6NM133mDc5rv6r4Vcmymhj-fAWsVb_D8vvozpas5kQSK7ViQAXcubymzjOF-wbYHDy)/dm/3/x5so98l/d/live-240.m3u8#cell=lcf-eu-north-1b
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720 group-title="" tvg-logo="" tvg-id="", Moselle TV
-https://cdn.nng.cloudns.us/video/ts/oops.m3u8
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720 group-title="" tvg-logo="" tvg-id="", Le Figaro
-https://live.eu-north-1b.cf.dmcdn.net/sec2(eSzxcAG80vPdsRGiTnZ1SUjNucMctC85SSko4f9HtkVWSP-oBGd1NIHk0biZ9WAjElUNQ6jm4dH2An9Uy_g18BlInA6UJtZvv85ahoWGbUr5zze68-zvFeyYmvFXixN2)/dm/3/x9fm69u/s/live-380.m3u8#cell=lcf-eu-north-1b
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720 group-title="" tvg-logo="" tvg-id="", Maison et Travaux
-https://live.eu-north-1b.cf.dmcdn.net/sec2(eREesPcFqpwZnh3E98sOdV0wVgbCok8s-AlS2H3HmR39P8fnvdvWyT55n0BKPqVRv8V-OdW3oezOYRrOObSA3AGc1nRdCxoD7g4yNNt2GhAV-4sJvztexX_LS6WfK-PQ)/dm/3/x85e5l8/s/live-380.m3u8#cell=lcf-eu-north-1b
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720 group-title="" tvg-logo="" tvg-id="", America TV Paraquay
-https://cdn.nng.cloudns.us/video/ts/oops.m3u8
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720 group-title="" tvg-logo="" tvg-id="", Angers Tele
-https://live.eu-north-1b.cf.dmcdn.net/sec2(q1pFbQYKOtymUuPW7ogcZRG22HS_xcBeiCoEEE7k_j6vJ96FyQOEPoTKQMqPnvIdsQlbUZq5TL_Mj1PXRrXkAt7vjfSjbHmuNlCsAKevPl0czuRROtef6LCUw8XfqsUR)/dm/3/x8r7256/s/live-240.m3u8#cell=lcf-eu-north-1b
+https://live.eu-north-1a.cf.dmcdn.net/sec2(C9HEjMYNSeIccJijI4xEJ6GyEjKvoFvZER9OUFCPjShfuxCIZC--arhQLTQdplyDMXqxKj0PTuZPT9nTvcceVvJHMKOHgS4ZSH5B12puq6cELRwM3WqA-7u36JAGjEH6)/dm/3/x9sgd82/d/live-380.m3u8#cell=lcf-eu-north-1a
