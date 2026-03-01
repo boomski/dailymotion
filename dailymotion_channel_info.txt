@@ -1,5 +1,27 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Aswaja TV | | |
-https://www.dailymotion.com/video/x748iuo
+Sport en France | | |
+https://www.dailymotion.com/video/x8sayn8
+
+Maritima TV | | |
+https://www.dailymotion.com/video/x9sgd82
+
+Telenantes | | |
+https://www.dailymotion.com/video/x5so98l
+
+Moselle TV | | |
+https://www.dailymotion.com/video/x9lgbik
+
+Le Figaro | | |
+https://www.dailymotion.com/video/x9fm69u
+
+Maison et Travaux | | |
+https://www.dailymotion.com/video/x85e5l8
+
+America TV Paraquay | | |
+https://www.dailymotion.com/video/x9lh4mu
+
+Angers Tele | | |
+https://www.dailymotion.com/video/x8r7256
+
